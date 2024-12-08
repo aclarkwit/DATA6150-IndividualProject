@@ -1,2 +1,3 @@
 # DATA6150-IndividualProject
-Using biomolecule crystallization metrics to predict identity via classification and drug interaction via regression
+Using biophysical models to predict the mutation of p53 tumor suppressing proteins
+Utilizing both supervised and unsupervised dimensionality reduction methods to improve train classificaiton models
